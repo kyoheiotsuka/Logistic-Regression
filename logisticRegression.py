@@ -5,7 +5,6 @@ from scipy.optimize import fmin_bfgs
 
 
 class logisticRegression:
-	# This class ~ 
 
 	def __init__(self):
 		# do nothing particularly
