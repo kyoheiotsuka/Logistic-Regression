@@ -1,6 +1,6 @@
 # Logistic-Regression
 
-LogisticRegression class is provided with minimum amount of coding for simplicity, added with basic statistics information such as deviance, residual deviance and AIC just like the lm function in R package.
+LogisticRegression class is provided with minimum amount of coding for simplicity, together with basic statistics information such as deviance, residual deviance and AIC just like the lm function in R package.
 
 ## Sample Code
 ![sample](https://raw.github.com/kyoheiotsuka/logisticRegression/master/result.jpg)
